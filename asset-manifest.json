@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PerfectSoftware/static/css/main.8e35e256.css",
+    "main.css": "/PerfectSoftware/static/css/main.d45336ac.css",
     "main.js": "/PerfectSoftware/static/js/main.36c872c6.js",
     "static/js/787.ffc62ab4.chunk.js": "/PerfectSoftware/static/js/787.ffc62ab4.chunk.js",
     "static/media/grid6.jpg": "/PerfectSoftware/static/media/grid6.6059bcd06e2c0378a9ac.jpg",
@@ -11,12 +11,12 @@
     "static/media/grid4.jpg": "/PerfectSoftware/static/media/grid4.4870f2b1261d609e6f19.jpg",
     "static/media/bkg.svg": "/PerfectSoftware/static/media/bkg.e9e5d3e818dc9daa2e31fd4acdde8bb9.svg",
     "index.html": "/PerfectSoftware/index.html",
-    "main.8e35e256.css.map": "/PerfectSoftware/static/css/main.8e35e256.css.map",
+    "main.d45336ac.css.map": "/PerfectSoftware/static/css/main.d45336ac.css.map",
     "main.36c872c6.js.map": "/PerfectSoftware/static/js/main.36c872c6.js.map",
     "787.ffc62ab4.chunk.js.map": "/PerfectSoftware/static/js/787.ffc62ab4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e35e256.css",
+    "static/css/main.d45336ac.css",
     "static/js/main.36c872c6.js"
   ]
 }
