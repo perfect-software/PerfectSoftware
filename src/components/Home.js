@@ -48,9 +48,9 @@ export default function Home() {
         unmountOnExit
       >
         <nav className="Nav">
-          <a href="/">CLIENTS</a>
-          <a href="/">SERVICES</a>
-          <a href="/">CONTACT</a>
+        <a onClick={() => {document.getElementById('section3').scrollIntoView({behavior: 'smooth'});}}>SERVICES</a>
+        <a onClick={() => {document.getElementById('section5').scrollIntoView({behavior: 'smooth'});}}>CLIENTS</a>
+        <a onClick={() => {document.getElementById('section6').scrollIntoView({behavior: 'smooth'});}}>CONTACT</a>
           {/* <a href="/">DOMAIN BOOKING</a>
           <a href="/">HOSTING</a> */}
           <a href="/">JOBS</a>
@@ -75,7 +75,7 @@ export default function Home() {
       </p>
       <p className="cont">Id in massa et feugiat non enim non pretium pretium fermentum donec neque pellentesque et sociis integer amet venenatis dignissim a porta maecenas non.<br></br><br></br> Placerat aliquet eu, sollicitudin interdum leo suspendisse aliquam imperdiet gravida mauris quis sit fusce in purus leo eu sapien amet, arcu, lacus in enim vulputate cras tortor posuere elementum pulvinar netus morbi nulla etiam amet dictum tortor purus malesuada sed maecenas tincidunt elementum id in placerat ut semper.</p>
     </div>
-    <div className="sec3">
+    <div className="sec3" id="section3">
       <p className="sec3head">What we do</p>
       <p className="sec3subhead">Software solutions</p>
       <p className="sec3cont">Id in massa et feugiat non enim non pretium pretium fermentum donec neque pellentesque et <br></br>
@@ -106,7 +106,7 @@ export default function Home() {
         <div>
           {/* <img src={require("../mang1.jpg")} className="quo" alt="quo" /> */}
           <p className="post">Founder</p>
-          <p className="name">Bhupendra Singh</p>
+          <p className="name">Dharmendra Singh</p>
         </div>
         <p className="quo1">For the first time in onsectetur neque justo auctor sagittis cursus mauris fusce tristique integer arcu ultricies fringilla sed  integer arcu ultricies fringilla sed.</p>
       </div>
@@ -121,23 +121,23 @@ export default function Home() {
     </div>
     <FaQuoteRight className="quoter" />
     </div>
-    <div className="sec5">
+    <div className="sec5" id="section5">
       <p className="clients">EXTENDED FAMILY</p>
       <p className="clients2">and thank you, clients!</p>
       <p className="clients3">for making us who we are today</p>
       <div className="company">
-        <img src={require("../client-logo-1.png")} className="comp" alt="comp" />
-        <img src={require("../client-logo-2.png")} className="comp" alt="comp" />
-        <img src={require("../client-logo-3.png")} className="comp" alt="comp" />
-        <img src={require("../client-logo-4.png")} className="comp" alt="comp" />
-        <img src={require("../client-logo-5.png")} className="comp" alt="comp" />
-        <img src={require("../client-logo-6.png")} className="comp" alt="comp" />
-        <img src={require("../client-logo-7.png")} className="comp" alt="comp" />
-        <img src={require("../client-logo-8.png")} className="comp" alt="comp" />
-        <img src={require("../client-logo-1.png")} className="comp" alt="comp" />
-        <img src={require("../client-logo-2.png")} className="comp" alt="comp" />
-        <img src={require("../client-logo-3.png")} className="comp" alt="comp" />
-        <img src={require("../client-logo-4.png")} className="comp" alt="comp" />
+        <img src={require("../client-logo-1.png")} alt="comp" />
+        <img src={require("../client-logo-2.png")} alt="comp" />
+        <img src={require("../client-logo-3.png")} alt="comp" />
+        <img src={require("../client-logo-4.png")} alt="comp" />
+        <img src={require("../client-logo-5.png")} alt="comp" />
+        <img src={require("../client-logo-6.png")} alt="comp" />
+        <img src={require("../client-logo-7.png")} alt="comp" />
+        <img src={require("../client-logo-8.png")} alt="comp" />
+        <img src={require("../client-logo-1.png")} alt="comp" />
+        <img src={require("../client-logo-2.png")} alt="comp" />
+        <img src={require("../client-logo-3.png")} alt="comp" />
+        <img src={require("../client-logo-4.png")} alt="comp" />
       </div>
     </div>
     <div className='f-header grid-f'>
@@ -154,7 +154,7 @@ export default function Home() {
         <div className='r'>
           Jobs
         </div>
-        <div className='w'>
+        <div className='w' id="section6">
         <a className='linksa' href='http://www.perfectsoftware.in/TermAndCondition.html'>Terms & Conditions🡭</a><br></br><br></br>
         <a  className='linksa' href='http://www.perfectsoftware.in/RefundPolicy.html'>Cancellation & refund Policy🡭</a><br></br><br></br>
         <a  className='linksa' href='http://www.perfectsoftware.in/PrivacyPolicy.html'>Privacy Policy🡭</a><br></br><br></br>

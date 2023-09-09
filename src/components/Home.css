@@ -5,14 +5,14 @@ body {
 
 .main {
   font-weight: 700;
-  font-size: 25px;
+  font-size: 2vw;
   margin-left: 5%;
   /* letter-spacing: 1px; */
 }
 .Header {
   position: fixed;
   top: 0;
-  max-height: 80px;
+  max-height: 7.86vw;
   width: 100vw;
   display: grid;
   grid-template-areas: "logo nav";
@@ -23,10 +23,10 @@ body {
   box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.102);
 }
 
-.Logo {
+/* .Logo {
   grid-area: logo;
   height: 100px;
-}
+} */
 
 .heading {
   line-height: 1.4em;
@@ -74,24 +74,8 @@ body {
 }
 
 .bkg {
-  /* min-height: 100vh; */
-  max-width: 1024px;
-  align-items: center;
-  flex-wrap: wrap;
-  display: flex;
-  /* margin-right: auto;
-  margin-left: auto; */
-  /* position: relative; */
-  box-sizing: border-box;
-  /* margin-right: 0; */
-  margin-top: 0;
-  z-index: -1;
-  position: relative;
+  max-width: 82%;
   transform: translate(23%, -70%);
-  /* background-image: url(https://websitedemos.net/public-relations-agency-04/wp-content/uploads/sites/875/2021/10/public-relation-agency-template-hero-img-bg.svg); */
-  background-position: bottom right;
-  background-repeat: no-repeat;
-  background-size: 80vw auto;
 }
 
 .sec2 {
@@ -107,7 +91,7 @@ body {
 .sec2head {
   margin: 0% 0% 0% 5%;
   color: #2951d5;
-  font-size: 25px;
+  font-size: 2vw;
   grid: a;
 }
 
@@ -122,7 +106,7 @@ body {
 }
 
 .cont {
-  font-size: 17px;
+  font-size: 1.33vw;
   display: flex;
   max-width: 90%;
   line-height: 1.8rem;
@@ -139,15 +123,15 @@ body {
 
 .sec3head {
   margin: 0% 0% 0% 5%;
-  font-size: 25px;
+  font-size: 2vw;
   color: white;
   font-weight: 700;
-  padding-top: 50px;
+  padding-top: 4%;
 }
 
 .sec3subhead {
   margin: 0% 0% 0% 30%;
-  font-size: 50px;
+  font-size: 4vw;
   color: white;
   font-weight: 900;
   padding-top: 50px;
@@ -169,29 +153,29 @@ body {
   "l2 r2";
   margin: 5% 0% 0% 15%;
   color: white;
-  padding-bottom: 50px;
+  padding-bottom: 4%;
 }
 
 .l1, .r1 {
-  font-size: 50px;
+  font-size: 4vw;
   color: #bebebe;
 }
 
 .l2, .r2 {
   margin-top: 10%;
-  font-size: 50px;
+  font-size: 4vw;
   color: #bebebe;
 }
 
 .l1b{
-  font-size: 18px;
-  margin-top: -50px;
+  font-size: 1.4vw;
+  margin-top: -12%;
   color: white;
 }
 
 .l1a {
-  margin-top: -5px;
-  font-size: 30px;
+  margin-top: -0.1%;
+  font-size: 2.3vw;
   color: white;
 }
 
@@ -202,7 +186,7 @@ body {
 
 .sec4head {
   margin: 0% 0% 0% 5%;
-  font-size: 20px;
+  font-size: 1.57vw;
   color: #2951d5;
   font-weight: 500;
   padding-top: 60px;
@@ -210,9 +194,9 @@ body {
 
 .sec4subhead {
   margin: 0% 0% 0% 5%;
-  font-size: 35px;
+  font-size: 2.75vw;
   font-weight: 800;
-  padding-top: 30px;
+  padding-top: 3%;
 }
 
 .sec4grid {
@@ -222,34 +206,34 @@ body {
 }
 
 .gridi {
-  height: 170px;
+  height: 13.3vw;
   margin: 10% 0% 15% 15%;
 }
 
 .gridp1 {
-  font-size: 18px;
+  font-size: 1.4vw;
   font-weight: 500;
   text-align: left;
-  width: 300px;
+  width: 23.5vw;
   margin: -12% 0% 0% 15%;
 }
 
 .gridp2 {
-  font-size: 18px;
+  font-size: 1.4vw;
   /* font-weight: 500; */
   text-align: left;
-  width: 350px;
+  width: 27.5vw;
   margin: 0% 0% 0% 15%;
   color: #54595F;
 }
 
 .quotel {
-  font-size: 100px;
+  font-size: 7.86vw;
   margin: -5% 0% 5% 5%;
 }
 
 .quoter {
-  font-size: 100px;
+  font-size: 7.86vw;
   margin: 5% 0% -10% 85%;
 }
 
@@ -257,17 +241,17 @@ body {
   display: flex;
 } */
 
-.quo {
+/* .quo {
   margin: 5% 0% 0% 5%;
   height: 100px;
   width: 100px;
   border-radius: 50%;
-}
+} */
 
 .quo1 {
-  font-size: 30px;
+  font-size: 2.4vw;
   margin-top: -1%;
-  width: 350px;
+  width: 27.5vw;
 }
 
 .quotes {
@@ -302,31 +286,35 @@ body {
 }
 
 .clients {
-  font-size: 18px;
+  font-size: 1.4vw;
   font-weight: 500;
   text-align: center;
   color: #2951d5;
 }
 
 .clients2 {
-  margin-top: -1px;
-  font-size: 35px;
+  margin-top: -0.1%;
+  font-size: 2.75vw;
   font-weight: 700;
   text-align: center;
 }
 
 .clients3 {
-  font-size: 18px;
-  margin-top: -5px;
+  font-size: 1.4vw;
+  margin-top: -0.1%;
   margin-bottom: 5%;
   text-align: center;
   color:#26262c;
 }
 
+.company {
+  text-align: center;
+}
+
 .f-header {
 
-  font-size: 30px;
-  height: 250px;
+  font-size: 2.35vw;
+  height: 19.65vw;
   margin-bottom: 0;
   z-index: 2;
   color: white;
@@ -334,45 +322,49 @@ body {
 }
 
 .grid-f {
-  padding-top: 20px;
-  padding-left: 5%;
+  /* padding-top: 1.5vw; */
+  /* padding-left: 5%; */
   display: grid;
-  grid-template-areas: 'p q r w'
+  grid-template-areas: 
+  'p q r w'
   '. . . x'
   '. . . y'
   '. . . z';
 }
 .p {
-  margin-top: 20px;
-  margin-left: 20px;
-  font-size: 15px;
+  margin-top: 1.57vw;
+  margin-left: 15%;
+  font-size: 1.17vw;
 }
 
 .q {
-  margin-top: 20px;
-  font-size: 15px;
+  margin-top: 1.57vw;
+  font-size: 1.17vw;
+  margin-left: 15%;
 }
 .r {
-  margin-top: 20px;
-  font-size: 15px;
+  margin-top: 1.57vw;
+  font-size: 1.17vw;
+  margin-left: 15%;
 }
 .w {
-  font-size: 15px;
-  margin-top: 20px;
+  font-size: 1.17vw;
+  margin-top: 1.57vw;
+  margin-left: 15%;
 }
 .x {
-  font-size: 15px;
+  font-size: 1.17vw;
 }
 .y {
-  font-size: 15px;
+  font-size: 1.17vw;
 }
 .z {
-  font-size: 15px;
+  font-size: 1.17vw;
 }
 .linksa {
   color: rgb(255, 255, 255)!important;
   cursor: pointer;
-  font-size: 15px;
+  font-size: 1.17vw;
 }
 
 .Nav {
@@ -381,10 +373,11 @@ body {
   grid-template-columns: repeat(4, auto);
   align-items: center;
   justify-items: center;
+  cursor: pointer;
 }
 .Nav a {
   color: #54595F;
-  font-size: 15px;
+  font-size: 1.17vw;
   font-weight: 700;
   letter-spacing: .5px;
   transition: 0.5s;
@@ -787,3 +780,9 @@ body {
 
 }
 
+@media (min-width: 1026px) {
+  .bkg {
+    max-width: 86%;
+    transform: translate(23%, -70%);
+  }
+}
