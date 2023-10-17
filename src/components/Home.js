@@ -178,7 +178,7 @@ export default function Home() {
         <Link className='linksa' to='/PrivacyPolicy'>Privacy Policy🡭</Link><br /><br />
         <Link className='linksa' to='/Disclaimer'>Disclaimer🡭</Link>
       </div>
-
+      <img src={require("../logo512.png")} className="Logo" alt="logo" />
     </div>
     </div>
   );

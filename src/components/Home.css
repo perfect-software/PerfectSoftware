@@ -3,6 +3,12 @@ body {
     overflow-x: hidden;
 }
 
+.Logo {
+  height: 100px;
+  width: 100px;
+  margin-left: 15%;
+}
+
 .pheader {
   line-height: 1.4em;
   color:#000000;
@@ -384,7 +390,7 @@ body {
 .f-header {
 
   font-size: 2.35vw;
-  height: 19.65vw;
+  height: 25vw;
   margin-bottom: 0;
   /* z-index: 2; */
   color: white;
@@ -916,6 +922,13 @@ body {
     cursor: pointer;
     font-size: 2.5vw;
     /* text-decoration: none; */
+  }
+
+  .Logo {
+    height: 60px;
+    width: 60px;
+    margin-left: 15%;
+    margin-top: -40%;
   }
 
 }
