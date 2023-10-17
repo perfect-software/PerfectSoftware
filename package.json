@@ -1,7 +1,7 @@
 {
   "name": "perfectsoftware",
   "version": "0.1.0",
-  "homepage": "https://praful-vats.github.io/PerfectSoftware/",
+  "homepage": "https://perfectsoftware.in/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
