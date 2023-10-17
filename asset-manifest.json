@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/PerfectSoftware/static/css/main.1b95a45e.css",
-    "main.js": "/PerfectSoftware/static/js/main.c27d402b.js",
-    "static/js/787.ffc62ab4.chunk.js": "/PerfectSoftware/static/js/787.ffc62ab4.chunk.js",
-    "static/media/grid6.jpg": "/PerfectSoftware/static/media/grid6.6059bcd06e2c0378a9ac.jpg",
-    "static/media/grid1.jpg": "/PerfectSoftware/static/media/grid1.0de6b784ebe44cc42a66.jpg",
-    "static/media/grid3.jpg": "/PerfectSoftware/static/media/grid3.00d5bd3c576faea9f846.jpg",
-    "static/media/grid2.jpg": "/PerfectSoftware/static/media/grid2.d80767e4a0e9894cc1a9.jpg",
-    "static/media/grid5.jpg": "/PerfectSoftware/static/media/grid5.ac452b0548a26491af2a.jpg",
-    "static/media/grid4.jpg": "/PerfectSoftware/static/media/grid4.4870f2b1261d609e6f19.jpg",
-    "static/media/bkg.svg": "/PerfectSoftware/static/media/bkg.e9e5d3e818dc9daa2e31fd4acdde8bb9.svg",
-    "index.html": "/PerfectSoftware/index.html",
-    "main.1b95a45e.css.map": "/PerfectSoftware/static/css/main.1b95a45e.css.map",
-    "main.c27d402b.js.map": "/PerfectSoftware/static/js/main.c27d402b.js.map",
-    "787.ffc62ab4.chunk.js.map": "/PerfectSoftware/static/js/787.ffc62ab4.chunk.js.map"
+    "main.css": "/static/css/main.f3441201.css",
+    "main.js": "/static/js/main.55633293.js",
+    "static/js/787.ffc62ab4.chunk.js": "/static/js/787.ffc62ab4.chunk.js",
+    "static/media/grid6.jpg": "/static/media/grid6.6059bcd06e2c0378a9ac.jpg",
+    "static/media/grid1.jpg": "/static/media/grid1.0de6b784ebe44cc42a66.jpg",
+    "static/media/grid3.jpg": "/static/media/grid3.00d5bd3c576faea9f846.jpg",
+    "static/media/grid2.jpg": "/static/media/grid2.d80767e4a0e9894cc1a9.jpg",
+    "static/media/grid5.jpg": "/static/media/grid5.ac452b0548a26491af2a.jpg",
+    "static/media/grid4.jpg": "/static/media/grid4.4870f2b1261d609e6f19.jpg",
+    "static/media/bkg.svg": "/static/media/bkg.e9e5d3e818dc9daa2e31fd4acdde8bb9.svg",
+    "index.html": "/index.html",
+    "main.f3441201.css.map": "/static/css/main.f3441201.css.map",
+    "main.55633293.js.map": "/static/js/main.55633293.js.map",
+    "787.ffc62ab4.chunk.js.map": "/static/js/787.ffc62ab4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b95a45e.css",
-    "static/js/main.c27d402b.js"
+    "static/css/main.f3441201.css",
+    "static/js/main.55633293.js"
   ]
 }
